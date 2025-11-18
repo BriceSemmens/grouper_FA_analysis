@@ -1,4 +1,4 @@
-Fatty Acid Signatures Reveal Trophic Niche Partitioning in Spawning Groupers
+**Fatty Acid Signatures Reveal Trophic Niche Partitioning in Spawning Groupers**
 
 This repository contains data and analysis code for fatty acid profiling of grouper eggs from the Little Cayman spawning aggregation. The work demonstrates species-specific maternal investment strategies and trophic niche partitioning among three sympatric Caribbean grouper species.
 
