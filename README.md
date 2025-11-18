@@ -29,32 +29,55 @@ Grouping variable: Spawning burst ID (proxy for individual females)
 Data Columns
 
 Analysis: Sample type (all "bulk")
+
 Time (hpf): Hours post-fertilization (3 or 22)
+
 Species: Full species name with scientific name
+
 Spawning burst ID: Individual spawning event identifier (maternal grouping)
+
 Date Collected/Fertilized: Collection date
+
 C14_0_pct through C22_6n3_pct: Individual fatty acid percentages
+
 Derived metrics: FA ratios, sums by saturation class, n-3:n-6 ratios
 
+
 🛠️ Installation & Requirements
+
 R Version
+
 Tested with R 4.4.0 or higher
+
 Required Packages
+
 rinstall.packages(c(
+
   "tidyverse",      # Data manipulation and visualization
+  
   "vegan",          # Community ecology (PERMANOVA, RDA)
+  
   "janitor",        # Data cleaning
+  
   "ggrepel",        # Non-overlapping text labels
+  
   "lme4",           # Linear mixed-effects models
+  
   "lmerTest",       # p-values for LMMs
+  
   "emmeans",        # Post-hoc comparisons
+  
   "compositions",   # Compositional data analysis (CLR)
+  
   "zCompositions",  # Zero replacement for compositional data
+  
   "scales",         # Axis scaling functions
+  
   "patchwork"       # Multi-panel figures
+  
 ))
 
-```
+
 
 ### Output Files
 
