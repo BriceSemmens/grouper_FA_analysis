@@ -144,12 +144,20 @@ Diet-derived biomarkers - Discriminate among energy pathways (pelagic vs. benthi
 Currency of maternal investment - Essential LC-PUFAs determine offspring quality
 
 This dual lens allows simultaneous inference of adult trophic ecology and species-specific maternal allocation strategies.
+
 🤝 Contributing
+
 This is a research data repository associated with an in prep manuscript. While we welcome feedback and questions, we are not currently accepting code contributions. If you identify issues with the data or analysis, please open an issue.
+
 📧 Contact
 Principal Investigator: Brice Semmens
+
 Institution: Scripps Institution of Oceanography, UC San Diego
+
 Email: Bsemmens@ucsd.edu
+
 Project Website: Grouper Moon Project
+
 🙏 Acknowledgments
+
 This work was conducted under research permissions from the Cayman Islands Department of Environment. We thank the Grouper Moon partnership, local dive operators, and community members of Little Cayman for their continued support of grouper conservation and research.
